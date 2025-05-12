@@ -1,7 +1,8 @@
 # InteractiveNarratives_G6
  The interactive narratives project by group 6.
 
-GitHub repository: https://github.com/moss0/InteractiveNarratives_G6
+GitHub repository link: https://github.com/moss0/InteractiveNarratives_G6
+Itch.io link: 
 
 ## Development
 
